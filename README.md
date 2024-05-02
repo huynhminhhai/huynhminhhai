@@ -27,15 +27,15 @@
 <p>
  <img align="right" width="400" src="https://pa1.aminoapps.com/6082/5bbdcf1d30e70000cc7c8393754d5895fd193a9f_hq.gif" alt="Coding gif" />
   
- - 🔭 My favorite FE project [Hoan My Medical Website](https://hoanmy.com/en/)
+🔭 My favorite FE project [Hoan My Medical Website](https://hoanmy.com/en/)
 
-- 🌱 I’m currently learning **Node.js**
+🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **MEARN**
+💬 Ask me about **MEARN**
 
-- 📫 How to reach me **huynhminhhai.1555@gmail.com**
+📫 How to reach me **huynhminhhai.1555@gmail.com**
 
-- ⚡ Fun fact **No Coffee No Workee**
+⚡ Fun fact **No Coffee No Workee**
 
 </p>
 
