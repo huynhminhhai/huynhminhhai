@@ -31,7 +31,7 @@
 
 🌱 I’m currently learning **Node.js**
 
-💬 Ask me about **MEARN**
+💬 Ask me about **MERN**
 
 📫 How to reach me **huynhminhhai.1555@gmail.com**
 
